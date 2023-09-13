@@ -32,7 +32,7 @@
 - 🌱 I’m currently learning at Masai School
 - 💬 Ask me about Java
 - 👨‍💻 This is [My Portfolio]()
--  📄 This is [My Resume](https://drive.google.com/file/d/1Fto2fg-yAs13Vpf4URa1UZOd14kzSPF3/view)
+-  📄 This is [My Resume](https://drive.google.com/file/d/10m1Yu_g1j0nRX6JIsaANQ848iWtE0cyd/view?usp=sharing)
 - 📫 How to reach me: ...sainaveen2222gmail.com
 <div align="center">  
 
