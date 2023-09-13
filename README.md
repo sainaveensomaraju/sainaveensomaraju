@@ -31,9 +31,9 @@
 - 🔭 I’m currently working on MySkill😄
 - 🌱 I’m currently learning at Masai School
 - 💬 Ask me about Java
-- 👨‍💻 This is [My Portfolio](https://abhitim.github.io/)
+- 👨‍💻 This is [My Portfolio]()
 -  📄 This is [My Resume](https://drive.google.com/file/d/1Fto2fg-yAs13Vpf4URa1UZOd14kzSPF3/view)
-- 📫 How to reach me: ...abhishektomarcpr@gmail.com
+- 📫 How to reach me: ...sainaveen2222gmail.com
 <div align="center">  
 
 <h3 align="left">Connect with me</h3>
@@ -44,11 +44,11 @@
 
  
 
-<a href="https://www.linkedin.com/in/abhishek-tomar-9a67771b3/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeetsharma1997" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sainaveensomaraju/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeetsharma1997" height="30" width="40" /></a>
 
  
 
-<a href="https://instagram.com/abhishek_tomar3008" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujeetsharma08" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujeetsharma08" height="30" width="40" /></a>
 
  
 
@@ -69,9 +69,9 @@
 
 <p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhitim&show_icons=true&locale=en&theme=dark" alt="abhitim"  height="139" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sainaveensomaraju&show_icons=true&locale=en&theme=dark" alt="sainaveensomaraju"  height="139" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetsharma1997&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="sujeetsharma1997" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainaveensomaraju&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="sainaveensomaraju" height="139" />
 
  
 
@@ -79,7 +79,7 @@
 
  
 
-<img src="https://activity-graph.herokuapp.com/graph?username=abhitim&theme=xcode" height ="307"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=sainaveensomaraju&theme=xcode" height ="307"/>
 
  
 
